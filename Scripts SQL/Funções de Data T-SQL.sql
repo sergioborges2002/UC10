@@ -1,5 +1,5 @@
 /*Funções de Data*/
-/*DATEADD(parte,valor,data) retorna uma determinada data com basenum valor inteiro de intervalo*/
+/*DATEADD(parte,valor,data) retorna uma determinada data com base num valor inteiro de intervalo*/
 USE EmpresaTI45;
 SELECT DATEADD(MONTH,1,'21-10-2024');
 SELECT DATEADD(DAY,5,'27-02-2024');
